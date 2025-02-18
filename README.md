@@ -1,6 +1,6 @@
 # Medirect Invest Equities Search Test Suite
 
-This project contains automated tests for the Medirect Invest Equities Search page using [Playwright](https://playwright.dev). It includes tests for searching equities, selecting different security types, and ensuring the application works as expected. This README will guide you through setting up and running the tests.
+This project contains automated tests for the Search page using [Playwright](https://playwright.dev). It includes tests for searching equities, selecting different security types
 
 ## Prerequisites
 
@@ -20,3 +20,8 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/tahaiq-qa/test-front-end.git
 cd test-front-end
+
+### 2. Install the necessary dependencies by running:
+
+```bash
+npm install
