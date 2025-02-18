@@ -1,6 +1,7 @@
 
 
-This repo contains automated tests for the Search page using [Playwright](https://playwright.dev). It includes tests for searching equities, selecting different security types
+Front-End Test
+This repository contains a Front-end Test based on Playwright
 
 ## Prerequisites
 
