@@ -23,5 +23,7 @@ cd test-front-end
 
 ### 2. Install the necessary dependencies by running:
 
-```bash
+Install Dependencies and Run the Tests
 npm install
+
+npx playwright test
