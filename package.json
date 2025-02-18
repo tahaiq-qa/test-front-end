@@ -1,0 +1,14 @@
+{
+    "name": "medirect-equities-tests",
+    "version": "1.0.0",
+    "description": "Automated UI tests for Medirect Sec Search page",
+    "scripts": {
+        "test": "playwright test"
+    },
+    "dependencies": {
+        "@playwright/test": "^1.50.1"
+    },
+    "devDependencies": {
+        "typescript": "^4.9.5"
+    }
+}
