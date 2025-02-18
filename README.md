@@ -13,7 +13,7 @@ Before running the tests, make sure the following dependencies are installed:
 
 Follow these steps to get your testing environment up and running:
 
-1. Clone the Repository
+### 1. Clone the Repository
 
 Clone this repository to your local machine:
 
