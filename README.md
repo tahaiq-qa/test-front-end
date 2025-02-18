@@ -1,4 +1,4 @@
-# Medirect Invest Equities Search Test Suite
+# Search Test #
 
 This project contains automated tests for the Search page using [Playwright](https://playwright.dev). It includes tests for searching equities, selecting different security types
 
