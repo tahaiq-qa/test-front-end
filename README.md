@@ -23,7 +23,11 @@ cd test-front-end
 
 ### 2. Install the necessary dependencies by running:
 
-Install Dependencies and Run the Tests
+Install Dependencies 
 npm install
 
+Run Test
 npx playwright test
+
+The test results will be displayed in two formats:
+HTML Report: Interactive HTML report (opens automatically after each run).
